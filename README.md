@@ -1,5 +1,6 @@
 <h3>Hi there! 👋 I'm Patricia, a <strong>
-<font color="blue"> Full-Stack Web Developer student!</font></strong>
+<font color="blue"> Full-Stack Web Developer student!</font>
+</strong>
 </h3>
 
 <img src="https://media.giphy.com/media/5Wkzt2GH20PwgxV3SC/giphy.gif?cid=ecf05e478h8wakqmf1f4czrjx1ezzdu9tys1742xdvmmc4v9&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Loading">
