@@ -1,10 +1,11 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap" rel="stylesheet">
+<img src="https://media.giphy.com/media/5Wkzt2GH20PwgxV3SC/giphy.gif?cid=ecf05e478h8wakqmf1f4czrjx1ezzdu9tys1742xdvmmc4v9&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Loading">
 
-Hi there! 👋 I'm Patricia, a <strong>Full-Stack Web Developer student!</strong> <img src="https://cdn.pixabay.com/animation/2023/07/19/01/41/01-41-18-281_512.gif" alt="Loading">
-Over the past decade, I've embarked on a professional journey that has led me through a diverse array of roles, including office management, customer support services,KYC specialist, financial services and cryptocurrencies💰 BTC & ETH 💎
-. Throughout this journey, I've simultaneously delved into the realms of web development and IT, expanding my skill set and knowledge base.
+
+Hi there! 👋 I'm Patricia, a <strong>
+<font color="blue"> Full-Stack Web Developer student!</font>
+</strong> <img src="https://media.giphy.com/media/uhhEKTfedQowM/giphy.gif?cid=ecf05e47200h93r2l118bnibsolpj2bev5meo3mlmm853kc4&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Loading">
+
+Over the past decade, I've embarked on a professional journey that has led me through a diverse array of roles, including office management, customer support services,KYC specialist, financial services and cryptocurrencies💰 BTC & ETH 💎 Throughout this journey, I've simultaneously delved into the realms of web development and IT, expanding my skill set and knowledge base.
 
 Roles & Responsibilities:
 
