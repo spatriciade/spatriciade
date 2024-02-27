@@ -1,7 +1,4 @@
-<h3>Hi there! 👋 I'm Patricia, a <strong>
-<font color="blue"> Full-Stack Web Developer student!</font>
-</strong>
-</h3>
+<h3>Hi there! 👋 I'm Patricia, a <span style="color: blue;">Full-Stack Web Developer student!</span> </h3>
 
 <img src="https://media.giphy.com/media/5Wkzt2GH20PwgxV3SC/giphy.gif?cid=ecf05e478h8wakqmf1f4czrjx1ezzdu9tys1742xdvmmc4v9&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Loading">
 
@@ -9,6 +6,7 @@ Over the past decade, I've embarked on a professional journey that has led me th
 
 
 <img src="https://media.giphy.com/media/uhhEKTfedQowM/giphy.gif?cid=ecf05e47200h93r2l118bnibsolpj2bev5meo3mlmm853kc4&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Loading">
+
 
 Roles & Responsibilities:
 
@@ -23,8 +21,5 @@ Roles & Responsibilities:
 💻 IT Collaborator: I've collaborated closely with IT and management teams, actively contributing to the development of new backend features aimed at enhancing support services and elevating the overall customer experience.
 
 🛠️ Testing & QA: Playing a crucial role, I've meticulously tested both frontend and backend systems, applications, and websites. This involves the diligent identification and reporting of issues, followed by the prompt delivery of effective solutions to ensure seamless user experiences.
-
-📱 Social Media Manager: Responsible for responding to all inquiries and requests via social media platforms, ensuring timely and effective communication with our online community. Although not directly involved in content creation, I play a vital role in maintaining a positive online presence and fostering engagement.
-
 
 My journey as a full-stack web developer student perfectly complements my extensive professional experience. This amalgamation empowers me to bring a unique perspective and a diverse skill set to every project I undertake. I'm enthusiastic about the opportunity to continue growing and contributing to innovative solutions in the dynamic world of web development. Let's collaborate and build something amazing together! 💻✨
