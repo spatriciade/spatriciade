@@ -22,4 +22,6 @@ Roles & Responsibilities:
 
 🛠️ Testing & QA: Playing a crucial role, I've meticulously tested both frontend and backend systems, applications, and websites. This involves the diligent identification and reporting of issues, followed by the prompt delivery of effective solutions to ensure seamless user experiences.
 
+📱 Social Media: Responsible for responding to all inquiries and requests via social media platforms, ensuring timely and effective communication with our online community. 
+
 My journey as a full-stack web developer student perfectly complements my extensive professional experience. This amalgamation empowers me to bring a unique perspective and a diverse skill set to every project I undertake. I'm enthusiastic about the opportunity to continue growing and contributing to innovative solutions in the dynamic world of web development. Let's collaborate and build something amazing together! 💻✨
