@@ -1,9 +1,3 @@
-
-.image {
-    -webkit-box-shadow: 10px 10px 5px 0px rgba(230,32,82,1);
--moz-box-shadow: 10px 10px 5px 0px rgba(230,32,82,1);
-box-shadow: 10px 10px 5px 0px rgba(230,32,82,1);
-}
 <h3>Hi there! 👋 I'm Patricia, a <strong>
 <font color="blue"> Full-Stack Web Developer student!</font>
 </strong>
@@ -28,5 +22,8 @@ Roles & Responsibilities:
 💻 IT Collaborator: I've collaborated closely with IT and management teams, actively contributing to the development of new backend features aimed at enhancing support services and elevating the overall customer experience.
 
 🛠️ Testing & QA: Playing a crucial role, I've meticulously tested both frontend and backend systems, applications, and websites. This involves the diligent identification and reporting of issues, followed by the prompt delivery of effective solutions to ensure seamless user experiences.
+
+📱 Social Media Manager: Responsible for responding to all inquiries and requests via social media platforms, ensuring timely and effective communication with our online community. Although not directly involved in content creation, I play a vital role in maintaining a positive online presence and fostering engagement.
+
 
 My journey as a full-stack web developer student perfectly complements my extensive professional experience. This amalgamation empowers me to bring a unique perspective and a diverse skill set to every project I undertake. I'm enthusiastic about the opportunity to continue growing and contributing to innovative solutions in the dynamic world of web development. Let's collaborate and build something amazing together! 💻✨
