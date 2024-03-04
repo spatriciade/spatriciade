@@ -10,7 +10,7 @@ Over the past decade, I've embarked on a professional journey that has led me th
 <img src="https://media.giphy.com/media/uhhEKTfedQowM/giphy.gif?cid=ecf05e47200h93r2l118bnibsolpj2bev5meo3mlmm853kc4&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Loading">
 </p>
 
-**<center>**<h4>Roles & Responsibilities: </h4></center>
+**<h4 align="center">**Roles & Responsibilities:</h4>
 
 📁 Office Manager: Over the last ten years, I've efficiently handled various administrative tasks, ensuring the smooth operation of office affairs and cultivating a productive work environment.
 
