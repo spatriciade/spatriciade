@@ -6,9 +6,9 @@
 
 Over the past decade, I've embarked on a professional journey that has led me through a diverse array of roles, including office management, customer support services,KYC specialist, financial services and cryptocurrencies💰 BTC & ETH 💎 Throughout this journey, I've simultaneously delved into the realms of web development and IT, expanding my skill set and knowledge base.
 
-<center>
+<p align="center">
 <img src="https://media.giphy.com/media/uhhEKTfedQowM/giphy.gif?cid=ecf05e47200h93r2l118bnibsolpj2bev5meo3mlmm853kc4&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Loading">
-</center>
+</p>
 
 **<center>**<h4>Roles & Responsibilities: </h4></center>
 
@@ -28,8 +28,8 @@ Over the past decade, I've embarked on a professional journey that has led me th
 
 My journey as a full-stack web developer student perfectly complements my extensive professional experience. This amalgamation empowers me to bring a unique perspective and a diverse skill set to every project I undertake. I'm enthusiastic about the opportunity to continue growing and contributing to innovative solutions in the dynamic world of web development. Let's collaborate and build something amazing together! 💻✨
 
-<center>
+<p align="center">
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fspatriciade%2Fspatriciade.git&label=Views&labelColor=%23697689&countColor=%23ba68c8&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fspatriciade%2Fspatriciade.git)
 
-</center>
+</p>
