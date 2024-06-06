@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Patricia 
 
-# CS Manager
-# Full-Stack Web Developer "on development"
+![Senior Support Manager](https://img.shields.io/badge/Senior%20Support%20Manager-1976D2?style=for-the-badge)
+![Full-Stack Web Developer "in progress"](https://img.shields.io/badge/Full--Stack%20Web%20Developer%20%22on%20development%22-43A047?style=for-the-badge) 
 
 
 ## Tools and Technologies
