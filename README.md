@@ -1,4 +1,8 @@
-# Hi there! 👋 I'm Patricia, a Full-Stack Web Developer student!
+# Hi there! 👋 I'm Patricia 
+
+# CS Manager
+# Full-Stack Web Developer "on development"
+
 
 ## Tools and Technologies
 
