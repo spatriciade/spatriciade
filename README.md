@@ -7,7 +7,7 @@
 
 ### 🖥️ Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ### 🛠️ Version Control
@@ -53,11 +53,6 @@ Over the past decade, I've embarked on a professional journey that has led me th
 </p>
 
 **<h3 align ="center">Roles & Responsibilities:</h3>**
-<style> h3
-    background: linear-gradient(90deg, #00ffff,#ff0033);
-    -webkit-background-clip: text;
-    background-clip: text;
- </style>
 
 📁 Office Manager: Over the last ten years, I've efficiently handled various administrative tasks, ensuring the smooth operation of office affairs and cultivating a productive work environment.
 
