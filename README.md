@@ -1,7 +1,13 @@
 # Hi there! 👋 I'm Patricia 
 
 ![Senior Support Manager](https://img.shields.io/badge/Senior%20Support%20Manager-1976D2?style=for-the-badge)
-![Full-Stack Web Developer "in progress"](https://img.shields.io/badge/Full--Stack%20Web%20Developer%20%22on%20development%22-43A047?style=for-the-badge) 
+
+![Product Owner](https://img.shields.io/badge/Product%20Owner-1976D2?style=for-the-badge)
+
+![Business Analyst](https://img.shields.io/badge/Business%20Analyst-1976D2?style=for-the-badge)
+
+![Full-Stack Web Developer "in progress"](https://img.shields.io/badge/Full--Stack%20Web%20Developer%20%22in%20progress%22-43A047?style=for-the-badge)
+
 
 
 ## Tools and Technologies
@@ -60,6 +66,10 @@ Over the past decade, I've embarked on a professional journey that has led me th
 📁 Office Manager: Over the last ten years, I've efficiently handled various administrative tasks, ensuring the smooth operation of office affairs and cultivating a productive work environment.
 
 🛠️ Support Specialist: Serving as a dedicated support specialist, I've consistently been the point of contact for troubleshooting and assisting clients, effectively addressing their queries with promptness and efficiency.
+
+🔧 Product Owner: As a Product Owner, I've been responsible for defining the product vision, creating and prioritizing the product backlog, and ensuring alignment with stakeholder needs. I've successfully managed cross-functional teams to deliver high-quality products that meet market demands. My focus has been on tech companies, where I ensured the products we developed were innovative, user-centric, and market-leading.
+
+📊 Business Analyst: In the capacity of a Business Analyst, I've conducted comprehensive analyses of business processes, gathered and documented requirements, and collaborated with stakeholders to ensure the successful implementation of solutions that drive business value. My experience in tech companies has enabled me to understand complex technical environments and translate business needs into actionable technical requirements.
 
 💼 Financial Services (including Cryptocurrencies): As part of my responsibilities, I've been actively involved in financial management, including the exciting realm of cryptocurrencies. This involvement includes tasks related to financial transactions, compliance, and staying abreast of developments in the cryptocurrency space.
 
