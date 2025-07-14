@@ -1,15 +1,3 @@
-# Hi there! 👋 I'm Patricia 
-
-![Senior Support Manager](https://img.shields.io/badge/Senior%20Support%20Manager-1976D2?style=for-the-badge)
-
-![Product Owner](https://img.shields.io/badge/Product%20Owner-1976D2?style=for-the-badge)
-
-![Business Analyst](https://img.shields.io/badge/Business%20Analyst-1976D2?style=for-the-badge)
-
-![Full-Stack Web Developer "in progress"](https://img.shields.io/badge/Full--Stack%20Web%20Developer%20%22in%20progress%22-43A047?style=for-the-badge)
-
-
-
 <h1 align="center">👋 Hi there! I'm Patricia</h1>
 
 <p align="center">
