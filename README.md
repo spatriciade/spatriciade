@@ -53,6 +53,9 @@
 </div>
 
 
+
+
+
 Over the past decade, I've embarked on a professional journey that has led me through a diverse array of roles, including office management, customer support services,KYC specialist, financial services and cryptocurrencies💰 BTC & ETH 💎 Throughout this journey, I've simultaneously delved into the realms of web development and IT, expanding my skill set and knowledge base.
 
 <p align="center">
