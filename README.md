@@ -94,4 +94,4 @@ My journey as a full-stack web developer student perfectly complements my extens
 
 </p>
 
-Sevilla 2024
+From Sevilla with <span style="color:red">❤</span>
