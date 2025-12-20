@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Product%20Owner-1976D2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Business%20Analyst-1976D2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Business%20Operations%20Coordinator-1976D2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Developer%20%22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Developer-43A047?style=for-the-badge" />
 </p>
 
 ---
