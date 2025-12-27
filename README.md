@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Product%20Owner-1976D2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Business%20Analyst-1976D2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Business%20Operations%20Coordinator-1976D2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Developer-43A047?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Developer%20%7C%20Codespace%20Málaga-43A047?style=for-the-badge" />
 </p>
 
 ---
@@ -60,8 +60,9 @@
 
 ---
 
-Over the past decade, I've built a strong multidisciplinary career across **technology, business operations, customer experience, and web development**.  
-My background spans office management, customer support, KYC supervision, cryptocurrencies, and business analysis — all while diving deep into the world of software development and IT.
+My continuous journey as a **Full Stack Web Developer**, trained at **Codespace (Málaga)**, strengthens my technical foundation and complements over a decade of professional experience in operations, product, and customer-facing roles.
+
+I bring a versatile, solutions-oriented mindset to every project — blending **technology, business operations, and customer-centric thinking** to build meaningful and scalable digital experiences.
 
 <p align="center">
 <img src="https://media.giphy.com/media/uhhEKTfedQowM/giphy.gif" alt="Loading">
